@@ -1,0 +1,23 @@
+
+.content-place > .arrow,
+.content-place > .arrow:after {
+    z-index: 2;
+    top: 15px;
+    left: 36px;
+    position: absolute;
+    display: block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 4px 7px 5px 0;
+    border-color: transparent rgb(243, 244, 246);
+}
+
+
+.content-place> .arrow:after {
+    z-index: 1;
+    top: -4px;
+    content: "";
+    left: 2px;
+    border-color: transparent rgb(243, 244, 246);
+}
