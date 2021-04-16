@@ -113,8 +113,8 @@
 }
 
 .EDRPCalendar__cell--active {
-    background: #528fff;
-    background: rgba(82, 143, 255);
+    background: rgba(10,86,138);
+    background: rgba(10,86,138);
     color: #fff;
 }
 
@@ -135,10 +135,7 @@
 }
 
 .EDRPCalendar__cell--end {
-    border-bottom-right-radius: 5px;
-    border-top-right-radius: 5px;
-    background: #528fff;
-    background: rgba(82, 143, 255);
+    background: rgba(10,86,138);
 }
 
 .EDRPCalendar__cell--end:hover {
@@ -152,10 +149,7 @@
 }
 
 .EDRPCalendar__cell--start {
-    border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
-    background: #528fff;
-    background: rgba(82, 143, 255);
+    background: rgba(10,86,138);
 }
 
 .EDRPCalendar__cell--start:hover {
